@@ -6,8 +6,8 @@
 ⚡ Gosto de aprender coisas novas!
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=NicolasFerri011&show_icons=true&count_private=true&hide_border=true&title_color=FF4500&icon_color=FF4500&text_color=c9d1d9&bg_color=0d1117" alt="Mateus Brusius Otto github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasFerri011&layout=compact&hide_border=true&title_color=FF4500&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=NicolasFerri011&show_icons=true&count_private=true&hide_border=true&title_color=4169E1&icon_color=4169E1&text_color=c9d1d9&bg_color=0d1117" alt="Mateus Brusius Otto github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasFerri011&layout=compact&hide_border=true&title_color=4169E1&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 <div align="center"><h1>Tecnologias que utilizo</h1></div>
